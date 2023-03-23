@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "223289814112",
+    "project_id": "onurreklam-83f58",
+    "storage_bucket": "onurreklam-83f58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223289814112:android:7713994dd1219fcb0ea705",
+        "android_client_info": {
+          "package_name": "com.example.onur_reklam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223289814112-s739i8ef5v65uj6de2ahihm5v873cqt6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWugLccxh0p2gmEXOQjdIqPbcdZx4kDsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223289814112-s739i8ef5v65uj6de2ahihm5v873cqt6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "223289814112-46gdgkap7hpcedq947kjh32asb7jmbq2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.onurReklam"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
