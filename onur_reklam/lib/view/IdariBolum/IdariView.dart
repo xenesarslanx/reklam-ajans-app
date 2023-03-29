@@ -17,6 +17,8 @@ class IdariView extends StatefulWidget {
 }
 
 class _IdariViewState extends State<IdariView> {
+  
+  
   @override
   Widget build(BuildContext context) {
     return 
@@ -36,9 +38,8 @@ class _IdariViewState extends State<IdariView> {
     ),
           ),
             child: Column(
-                // mainAxisAlignment: MainAxisAlignment.center,
-            
               children:  [
+                
                 const SizedBox(height: 50,),
                 buttonMethod(Colors.red, 40, Colors.green, 50, Get.width/5, Get.height/20,
                 const StokSorgu() ,

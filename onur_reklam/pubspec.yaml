@@ -52,6 +52,8 @@ dependencies:
   http:
   path_provider: ^2.0.14
   flutter_slidable: ^2.0.0
+  
+  
 dev_dependencies:
   flutter_test:
     sdk: flutter
